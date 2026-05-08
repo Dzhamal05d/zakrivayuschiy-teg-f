@@ -1,1 +1,1 @@
-https://github.com/Dzhamal05d/zakrivayuschiy-teg-f
+https://dzhamal05d.github.io/zakrivayuschiy-teg-f/
