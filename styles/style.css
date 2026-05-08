@@ -157,10 +157,6 @@
   position: relative;
 }
 
-.button__text {
-  font-size: 14px;
-}
-
 .card__label {
   position: absolute;
   font-family: var(--accent-font), fantasy;
